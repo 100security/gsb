@@ -3,19 +3,24 @@ O Google Safe Browing é uma ferramenta desenvolvida pelo Google com o objetivo 
 
 Através da API disponibilizada pelo Google desenvolvi um script em Python que pesquise pesquisar a reputação do sites e exportar os dados para um banco de dados para que possa visualizar via web.
 
-# Modo Console
+# ⚠ Pré-requisito
+É necessário criar a API no Google Cloud Console (Gratuitamente) 👍
+
+Acesse: https://console.cloud.google.com/apis/credentials
+
+# ⬛ Modo Console
 ![](https://www.100security.com.br/images/gsb-13.png)
 
-# Mobo Web
+# 🌎 Mobo Web
 ![](https://www.100security.com.br/images/gsb-23.png)
 
-# Artigo 
+# 📝 Artigo 
 www.100security.com.br/gsb
 
-# Demo
+# 🌎 Demo
 www.100security.com.br/gsb-demo
 
-# Execução
+# ▶ Execução
 Verificar um Site
 ```
 python .\gsb.py -u https://www.100security.com.br
@@ -33,5 +38,5 @@ Verificar os Sites que estão no arquivo 'sites.txt' e inserir o resultado no Ba
 python .\gsb-db.py -f sites.txt
 ```
 
-# Observação
+# 💡 Observação
 O script 'gsb-db.py' conta com multithreading oferecendo uma execução rápida e eficaz!
