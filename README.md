@@ -11,7 +11,7 @@ Acesse: https://console.cloud.google.com/apis/credentials
 # ⬛ Modo Console
 ![](https://www.100security.com.br/images/gsb-13.png)
 
-# 🌎 Mobo Web
+# 🌎 Modo Web
 ![](https://www.100security.com.br/images/gsb-23.png)
 
 # 📝 Artigo 
