@@ -1,7 +1,7 @@
 # 🔒 Google Safe Browsing
 O Google Safe Browing é uma ferramenta desenvolvida pelo Google com o objetivo de aumentar a segurança na internet ao identificar e avisar os usuários sobre sites potencialmente perigosos.
 
-Através da API disponibilizada pelo Google desenvolvi um script em Python que pesquise pesquisar a reputação dos sites e exportar os dados para um banco de dados para que possa visualizar via web.
+Através da API disponibilizada pelo Google desenvolvi um script em Python que permite pesquisar a reputação dos sites e exportar os dados para um banco de dados para que possa visualizar via web.
 
 # ⚠ Pré-requisito
 É necessário criar a API no Google Cloud Console (Gratuitamente) 👍
